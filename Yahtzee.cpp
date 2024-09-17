@@ -1,19 +1,10 @@
 
 /*************************
  * Student Author Name: Oday Suleiman
- * Lab Section: 10:00 AM
+ 
  * ***********************/
 
-/*
- * The AI Feedback Generator is part of a research study investigating the effectiveness of AI-powered teaching assistance in computer science education. 
- * By requesting AI feedback, you consent to participate in this study. Participation involves submitting a survey to evaluate the feedback you received and its impact on your progress. The surveys will be anonymized before being released publicly for future research. 
- * If you choose not to submit the surveys, it means that you opt out of the study and will not be able to receive AI feedback for your future coursework.
- * To request AI feedback uncomment the following line.
- */
 
-//#define REQUEST_AI_FEEDBACK
-
-//To receive AI feedback, DO NOT implement the class methods inside the class definition. 
 
 
 #include <string>
